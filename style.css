@@ -20,7 +20,6 @@ ul li a{
     max-width: 992px;
     margin: auto;
     width: 100%;
-    border: 1px solid;
     min-width: 320px;
     padding: 10px 15px;
 }
@@ -79,7 +78,6 @@ header .menu{
     font-size: 32px;
     color: #122a57;
     display: flex;
-    border: 1px solid;
     margin-bottom: 20px;
 }
 #quem-somos h2::before{
@@ -116,7 +114,6 @@ header .menu{
 }
 .list-servicos .item-servicos{
     text-align: center;
-    border: 1px solid;
 }
 .item-servicos a{
     width: 120px;
