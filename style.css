@@ -212,7 +212,10 @@ footer .footer{
 
 /*mobile*/
 @media(max-width: 992px){
-     .flex-container{
+    .body{
+        overflow-x: hidden;
+    } 
+    .flex-container{
         flex-direction: column;
      }
      .apresentacao{
@@ -241,7 +244,7 @@ footer .footer{
         margin-bottom: 20px;
     }
     .list-planos .item-plano{
-        max-width: 90%;
+        max-width: 80%;
         margin: auto;
         width: 100%;
         margin-bottom: 20px;
